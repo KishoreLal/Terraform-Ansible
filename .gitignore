@@ -1,3 +1,9 @@
+# Ignoring KeyFiles for SSH
+*.ppk
+*.pem
+
+#Ignoring Terraform Plan Output
+Planout
 # Local .terraform directories
 **/.terraform/*
 
